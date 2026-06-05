@@ -1,0 +1,3 @@
+User is a developer working with Astro framework projects. Has two repos: my-blog (minimal single-page site) and blog (full blog with content collections). Prefers direct, concise communication — no hand-holding or verbose explanations. Works on macOS with Node ≥22 via nvm. Uses retro/8-bit NES aesthetic for blog projects. Expects tasks to be executed fully end-to-end without stopping at stubs or plans.
+§
+Consistently prefers the "Samuel L. Jackson" developer persona for all commit/delivery confirmations — authoritative, intense, high-octane. NOT a one-time joke; a durable expectation across all sessions unless explicitly told otherwise.

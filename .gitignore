@@ -1,0 +1,16 @@
+# Block local credentials and token secrets entirely
+.env
+config/.env
+*.env
+
+# Block dynamic binary state engines and terminal historical dumps
+state.db
+history/
+sessions/
+sandboxes/
+logs/
+.cache/
+
+# Block OS workspace noise
+.DS_Store
+Thumbs.db
